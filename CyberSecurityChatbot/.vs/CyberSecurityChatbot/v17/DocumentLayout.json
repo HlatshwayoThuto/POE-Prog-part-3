@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\quizgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\quizgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\models\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\models\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5FBB80-1F01-40F7-A6F1-6BFB7FA24A9E}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritychatbot\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5FBB80-1F01-40F7-A6F1-6BFB7FA24A9E}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5FBB80-1F01-40F7-A6F1-6BFB7FA24A9E}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritychatbot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5FBB80-1F01-40F7-A6F1-6BFB7FA24A9E}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritywpf\\cybersecuritywpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B39FB237-61AE-4852-97CE-41957CF103BC}|CyberSecurityWPF\\CyberSecurityWPF.csproj|solutionrelative:cybersecuritywpf\\cybersecuritywpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5FBB80-1F01-40F7-A6F1-6BFB7FA24A9E}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|c:\\users\\hlath\\onedrive\\pictures\\prog-poe_part2-main\\cybersecuritychatbot\\cybersecuritychatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5FBB80-1F01-40F7-A6F1-6BFB7FA24A9E}|CyberSecurityChatbot\\CyberSecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "CyberSecurityChatbot\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\AudioPlayer.cs",
+              "RelativeToolTip": "CyberSecurityChatbot\\AudioPlayer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:44:40.972Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CyberBot.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\CyberBot.cs",
+              "RelativeDocumentMoniker": "CyberSecurityChatbot\\CyberBot.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\CyberBot.cs",
+              "RelativeToolTip": "CyberSecurityChatbot\\CyberBot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:38:43.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\AudioPlayer.cs",
+              "RelativeToolTip": "CyberSecurityWPF\\AudioPlayer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:35:58.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItems.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\Models\\TaskItems.cs",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\Models\\TaskItems.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\Models\\TaskItems.cs",
+              "RelativeToolTip": "CyberSecurityWPF\\Models\\TaskItems.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:24:01.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CyberBot.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\CyberBot.cs",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\CyberBot.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\CyberBot.cs",
+              "RelativeToolTip": "CyberSecurityWPF\\CyberBot.cs",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAgwN4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:35:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\TaskManager.cs",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\TaskManager.cs",
+              "RelativeToolTip": "CyberSecurityWPF\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:55:10.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CyberSecurityWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:14:01.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizGame.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\QuizGame.cs",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\QuizGame.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\QuizGame.cs",
+              "RelativeToolTip": "CyberSecurityWPF\\QuizGame.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4YAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:54:52.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CyberSecurityWPF.csproj",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\CyberSecurityWPF.csproj",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\CyberSecurityWPF.csproj",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\CyberSecurityWPF.csproj",
+              "RelativeToolTip": "CyberSecurityWPF\\CyberSecurityWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T16:33:55.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CyberSecurityWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityWPF\\MainWindow.xaml",
+              "RelativeToolTip": "CyberSecurityWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T16:14:02.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\Program.cs",
+              "RelativeDocumentMoniker": "CyberSecurityChatbot\\Program.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\Program.cs",
+              "RelativeToolTip": "CyberSecurityChatbot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:36:18.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekDFk/HhXx4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hlath\\OneDrive\\Pictures\\Prog-POE_part2-main\\CyberSecurityChatbot\\CyberSecurityChatbot\\CyberSecurityChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hlath\\.nuget\\packages\\system.windows.extensions\\9.0.4\\system.windows.extensions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
